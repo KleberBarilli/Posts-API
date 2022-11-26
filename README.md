@@ -96,7 +96,7 @@ Checklist do que foi feito:
 	- [x] b - Usuário do comentário pode remover o comentário;
 
 
-- [x] Tarefa 8 - Documentar a API - arquivo
+- [x] Tarefa 7 - Documentar a API - arquivo
 
 
 
